@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mp-html": "^2.2.0"
+    "mp-html": "^2.2.0",
+    "westore": "^0.1.9"
   }
 }
