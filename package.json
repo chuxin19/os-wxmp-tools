@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@vant/weapp": "^1.9.2",
     "mp-html": "^2.2.0",
     "westore": "^0.1.9"
+  },
+  "devDependencies": {
+    "miniprogram-api-typings": "^3.4.4"
   }
 }
