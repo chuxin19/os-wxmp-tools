@@ -3,7 +3,8 @@
     "@vant/weapp": "^1.9.2",
     "mp-html": "^2.2.0",
     "we-request": "^1.5.1",
-    "westore": "^0.1.9"
+    "westore": "^0.1.9",
+    "wxbarcode": "^1.0.2"
   },
   "devDependencies": {
     "miniprogram-api-typings": "^3.4.4"
