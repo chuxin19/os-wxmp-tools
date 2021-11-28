@@ -3,6 +3,7 @@
     "@vant/weapp": "^1.9.2",
     "mp-html": "^2.2.0",
     "we-request": "^1.5.1",
+    "we-validator": "^2.1.16",
     "westore": "^0.1.9",
     "wxbarcode": "^1.0.2"
   },
